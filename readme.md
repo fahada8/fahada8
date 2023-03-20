@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">Enthusiastic Tech aficionado with a relentless drive to explore new trends and technologies</h3>
