@@ -1,9 +1,7 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
-
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">Enthusiastic Tech aficionado with a relentless drive to explore new trends and technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahada8&label=Profile%20views&color=0a6ca9&style=flat" alt="fahada8" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning based Phishing URL Detection System**
 
@@ -26,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahada8&show_icons=true&theme=dark&locale=en" alt="fahada8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahada8&theme=dark" alt="fahada8" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahada8&label=Profile%20views&color=0a6ca9&style=flat" alt="fahada8" /> </p>
